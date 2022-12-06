@@ -5,4 +5,4 @@ Hi humans
 
 bla bla bla
 
-this has been added during the second branch
+this has been removed in branch new
